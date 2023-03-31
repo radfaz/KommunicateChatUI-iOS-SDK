@@ -1,3 +1,0 @@
-bye,
-badword,
-bestBadWord
